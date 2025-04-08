@@ -8,15 +8,11 @@
     tools:context=".MainActivity">
 
     <LinearLayout
-        android:layout_width="446dp"
-        android:layout_height="363dp"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
         android:gravity="center"
         android:orientation="vertical"
-        android:visibility="visible"
-        app:layout_constraintBottom_toBottomOf="parent"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent">
+        android:visibility="visible">
 
         <TextView
             android:layout_width="wrap_content"
